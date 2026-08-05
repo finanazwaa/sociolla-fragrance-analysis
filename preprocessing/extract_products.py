@@ -18,7 +18,8 @@ for product in products:
         "product_name": product["name"],
         "brand_id": product["brand"]["id"],
         "price": product["default_combination"]["price"],
-        "avg_rating": product["review_stats"]["average_rating"]
+        "avg_rating": product["review_stats"]["average_rating"],
+        "description": product.get("description", "")
     })
 
 df = pd.DataFrame(rows)

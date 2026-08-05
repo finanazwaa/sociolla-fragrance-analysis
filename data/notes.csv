@@ -1,0 +1,696 @@
+note_id,note_name,note_type
+1,Cassis Buds,top
+2,Dalanghita,top
+3,Pink Pepper,top
+4,Duchesse de Nemours,middle
+5,Water Iris,middle
+6,Raat ki Rani,middle
+7,Warm Musky,base
+8,,base
+9,,base
+10,Mandarin,top
+11,Sweet Floral Notes,middle
+12,Vanilla Musk,base
+13,Sweet Mandarin,top
+14,Heliotrope,middle
+15,Creamy Gourmand,base
+16,Orange Blossom,top
+17,Pear,top
+18,Jasmine,middle
+19,Rose,middle
+20,Freesia,middle
+21,Bergamot,top
+22,Black Pepper,top
+23,Green Apple,top
+24,Cedar Wood,middle
+25,Jasmine Tea,middle
+26,Floral Bouquet,middle
+27,Aquatic Notes,middle
+28,Dewberry,top
+29,Muguet,middle
+30,Carnation,middle
+31,Tangerine,top
+32,Sampaguita,middle
+33,Mimosa,middle
+34,Tuberose,middle
+35,Raspberry,top
+36,Lychee,top
+37,Cotton Flower,top
+38,Violet,middle
+39,Rose Milk,middle
+40,Soft Wood,middle
+41,Petitgrain,top
+42,Freesia,top
+43,Rose Ultimate,middle
+44,Jasmine Absolute,middle
+45,Tuberose Absolute,middle
+46,Orange Flower,top
+47,Ylang,middle
+48,Lotus,top
+49,Musk,middle
+50,Watermelon,top
+51,Passionfruit,top
+52,Cassis Buds,middle
+53,Lily of the Valley,middle
+54,Coffee,middle
+55,Bitter Almond,middle
+56,Licorice,middle
+57,Coffee,top
+58,Caramel,middle
+59,Lemon,top
+60,Berry,top
+61,Marine,middle
+62,Milk,middle
+63,Vanilla,top
+64,Heliotrope,top
+65,White Floral Accord,top
+66,Vanilla,middle
+67,Marshmallow,middle
+68,Iris,middle
+69,Peach,top
+70,Green Pear,top
+71,Bitter Orange,top
+72,Neroli,middle
+73,Orange Blossom,middle
+74,Vanilla,base
+75,Sandalwood,base
+76,Musk,base
+77,Amber,base
+78,Floral,top
+79,Ivy,top
+80,Orchid,middle
+81,Crème de Framboise,top
+82,Petalia,middle
+83,Verbena,top
+84,Green,top
+85,Aldehydic,top
+86,Peony,middle
+87,Cedarwood,base
+88,Musk,base
+89,Mandarin Orange,top
+90,Peach,middle
+91,Lavender,top
+92,Tunisian Orange Blossom,middle
+93,Jasmine Sambac,middle
+94,Orchids,middle
+95,Blackcurrant,top
+96,Ylang Ylang,middle
+97,Raspberry,middle
+98,Orange,top
+99,Fruity,middle
+100,Cedar,middle
+101,Sandalwood,middle
+102,Grapefruit,top
+103,Green Notes,top
+104,Floral,middle
+105,Champaka Flower,top
+106,Chocolate,top
+107,Almond,top
+108,Cedarwood,middle
+109,Sambac,middle
+110,Clary Sage,top
+111,Fresh Watery Accord,top
+112,Rose,top
+113,Violet Leaf,top
+114,Ylang-Ylang,middle
+115,Apple,top
+116,Bergamot,middle
+117,Cassis,top
+118,Mango,top
+119,Nectarine,top
+120,Blood Orange,top
+121,Aquatic Flowers,middle
+122,Pomarosa,middle
+123,Sidr Honey,top
+124,Clementine,top
+125,Birch Tar,top
+126,Roseraie de l’Haÿ,middle
+127,Akigalawood,middle
+128,Buah Merah,top
+129,Melati,middle
+130,Violet Leaves,top
+131,Orris,middle
+132,Neroli,top
+133,Turkish Rose,middle
+134,Ivy,middle
+135,Patchouli,middle
+136,Saffron,top
+137,Ozone,top
+138,Starkrimson,top
+139,Galbanum,top
+140,Bigarade Orange,middle
+141,Iris Pallida,middle
+142,Leather Accord,top
+143,Smoky Notes,top
+144,Cashmeran,middle
+145,Amber,middle
+146,Eucalyptus,top
+147,Aquamare,middle
+148,Mineral Notes,middle
+149,Sulawesi Patchouli,base
+150,White Flowers,top
+151,Vanilla Bean,middle
+152,Sweet,middle
+153,Tonka,middle
+154,Clove,top
+155,White Floral,middle
+156,Ozonic,middle
+157,Basil,top
+158,Nutmeg,middle
+159,White Flowers,middle
+160,Rhubarb,top
+161,Yuzu,top
+162,Elletaria,top
+163,Ginger,middle
+164,Honey,middle
+165,Narcissus,middle
+166,Bush Juniper,top
+167,Tellicherry Pepper,top
+168,Palo Santo,middle
+169,Red Sandalwood,middle
+170,Calabrian Bergamot,top
+171,White Tea,top
+172,Fruits,top
+173,Citrus,top
+174,Fruity Pear,top
+175,Ozonic,top
+176,Juniper Berry,top
+177,Grass,middle
+178,Elemi,middle
+179,Geranium,middle
+180,Lavender,middle
+181,Aquatic Accord,middle
+182,Ginger,top
+183,Carnation,top
+184,Green Leaves,top
+185,Aldehydes,top
+186,Lily,top
+187,Armoise,top
+188,Water Flowers,middle
+189,Hedione,middle
+190,Woody,middle
+191,Immortelle,middle
+192,Floral Bouquet,top
+193,Milk,top
+194,Green Notes,middle
+195,Incense,top
+196,Turmeric Leaf,top
+197,Peppercorns,top
+198,Pistachio,top
+199,Skin Accords,middle
+200,Tonka Bean,middle
+201,Cardamom,top
+202,Whiskey,middle
+203,Cinnamon,middle
+204,Leather,middle
+205,Pepper,top
+206,Cinnamon,top
+207,Saffron,middle
+208,Tea,middle
+209,Olibanum,middle
+210,Cape Jasmine,top
+211,Plum,top
+212,Oeillet,middle
+213,Cherry,top
+214,Praline,middle
+215,Matcha,top
+216,Juniper,top
+217,Violet,top
+218,Sage,middle
+219,Red Berries,top
+220,Lily,middle
+221,Pear Accord,top
+222,Neroli Bud,middle
+223,Sambac Jasmine,middle
+224,Tuberose,top
+225,Orange Flower,middle
+226,Red Fruit,top
+227,Magnolia,middle
+228,Red Rose,middle
+229,Raspberry Sorbet,top
+230,-,middle
+231,Cognac,top
+232,Oat,middle
+233,Pencil Accord,top
+234,Violet Flower,middle
+235,Pink Pepper,middle
+236,Sage,top
+237,Quince,top
+238,White Lemon,top
+239,Oakmoss,middle
+240,Camphorwood,middle
+241,Vetiver,middle
+242,Jasmine,top
+243,Ylang-Ylang,top
+244,Candied Fruit,middle
+245,Balsam,middle
+246,Pepper,middle
+247,Smoked Black Tea,middle
+248,Honeysuckle,middle
+249,Apricot,top
+250,Osmanthus,middle
+251,Gardenia,middle
+252,Pineapple,top
+253,Blackberry,top
+254,Geranium,top
+255,Red Apple,middle
+256,Red Fruits,top
+257,Resin,middle
+258,Peach Skin,top
+259,Strawberry Jam,middle
+260,Earl Grey,top
+261,Magnolia,top
+262,Red Rose,top
+263,Lollipop,top
+264,Heliotrope Flower,middle
+265,Earl Grey Tea,top
+266,Rose Transparent Flower,top
+267,Iris Powder,middle
+268,Mint,top
+269,Hyacinth,middle
+270,Black Currant,top
+271,Sea Salt,top
+272,Pine,middle
+273,Tagete,top
+274,Fruity Notes,middle
+275,Strawberry,top
+276,Red Apple,top
+277,Sweat Pea,middle
+278,Fressia,middle
+279,Teh,middle
+280,White Chocolate,top
+281,Tonka Bean,top
+282,Milk Powder,top
+283,Rhubarb,middle
+284,Lychee Blossom,middle
+285,Tulip Petals,middle
+286,Pear,middle
+287,Green Tea,top
+288,Thyme,top
+289,Clove,middle
+290,Clary Sage,middle
+291,White Flower,top
+292,Black Currant,middle
+293,Davana,middle
+294,Apple Blossom,top
+295,Green Grape,top
+296,Pink Peppercorn,top
+297,Teh Hijau,top
+298,Mawar,middle
+299,Burnt Cinnamon,top
+300,Myrrh,top
+301,White Flower Accords,middle
+302,May Rose,middle
+303,Orange Leaf,middle
+304,Pear Pulp,top
+305,Almond Milk,top
+306,Solar Jasmine,middle
+307,Water Lily of the Valley,middle
+308,Cyclamen,top
+309,Red Fruits,middle
+310,Matcha Green Tea,top
+311,Citrus Blossom,top
+312,Cassis Rose,middle
+313,Blossom Breeze,middle
+314,Blackcurrant,middle
+315,Lemon Blossom,top
+316,White Flower,middle
+317,Coconut Milk,middle
+318,Rice,middle
+319,Orchid,top
+320,Sweet Notes,middle
+321,Lily of the Valley,top
+322,Lys Flower,middle
+323,Sicilian Bergamot,top
+324,Pink Grapefruit,top
+325,Blackcurrant Nectar,top
+326,Rhubarb Leaf,middle
+327,White Gardenia,middle
+328,Rosebud,middle
+329,William Pear,top
+330,Turkish Rose,top
+331,Rose Petals,middle
+332,Citrus Fresh,top
+333,Peru Balsam,middle
+334,May Rose,top
+335,Damascena Rose,top
+336,Amberwood,middle
+337,Apricot,middle
+338,Incense,middle
+339,Mandarin Green,top
+340,Rosemary,middle
+341,Moroccan Vanilla,top
+342,Bulgarian Rose,top
+343,Bulgarian Rose,middle
+344,Lemon,middle
+345,Sugar,middle
+346,Kiwi,top
+347,Papaya,top
+348,Frozen Melon,top
+349,White Peach,middle
+350,Jasmine Tea,top
+351,Fresh Accord,top
+352,Ylang,top
+353,Spicy Notes,middle
+354,White Floral,top
+355,Gourmand Notes,middle
+356,Damask Rose,top
+357,Sparkling Red Berries,middle
+358,Plum,middle
+359,Chamomile,top
+360,Lavandin,top
+361,Petitgrain,middle
+362,Black Tea,top
+363,Lychee,middle
+364,Black Tea,middle
+365,Coconut,top
+366,Frangipani,middle
+367,Sugar,top
+368,Violet Blossoms,middle
+369,Pink Pepper CO₂ LMR,top
+370,Lemon Oil Spain LMR,top
+371,Jahe,top
+372,Cypriol,middle
+373,Balsamic,middle
+374,Osmanthus,top
+375,Grape,top
+376,Cranberry,top
+377,Lemongrass,middle
+378,Chocolate,middle
+379,Caramel,top
+380,Roasted Vanilla,top
+381,Latte,middle
+382,Brown Sugar,middle
+383,Moss,top
+384,Toffee,middle
+385,Jasmine,middle
+386,White Musks,middle
+387,Bergamot,middle
+388,,middle
+389,rose,middle
+390,lily of the valley,middle
+391,Blond woods,middle
+392,jasmine,middle
+393,sandalwood creamy,middle
+394,white musk,middle
+395,,middle
+396,Rum,top
+397,Jasmine Sambac,top
+398,Mimosa dry,middle
+399,Sandal,middle
+400,Jasmine Sambac,middle
+401,Bunga putih,middle
+402,raspberry,middle
+403,Mimosa,middle
+404,Musk,base
+405,Wood,base
+406,Ambrette,base
+407,Nectarine Blossom,top
+408,Strawberry,middle
+409,Coconut,middle
+410,Whipped Cream,base
+411,Sugar,base
+412,Raspberry,base
+413,Cashmere Wood,base
+414,Ozonic Coffee,top
+415,Cashmere Wood,base
+416,Patchouli,base
+417,Plum,base
+418,Plum,base
+419,Blackberry Musk,base
+420,,base
+421,Ambrette,base
+422,Ambrette,base
+423,Red Cedar,base
+424,Red Cedar,base
+425,Ambrox,base
+426,Incense,base
+427,Incense,base
+428,Vetiver,base
+429,Blossom,top
+430,Lily of The Valley,middle
+431,Haitian Vetiver,base
+432,Musk,base
+433,,base
+434,WhiteMusk,base
+435,Warm Amber,base
+436,Lentisque,base
+437,Woods,base
+438,Woods,base
+439,Ambers,base
+440,Madagscar Vanilla,base
+441,Tonka Bean,base
+442,Ambergris,base
+443,Amber,base
+444,Ambergris,base
+445,Ambergris,base
+446,Musk,base
+447,Pear & Apple,top
+448,Musk & Amber,base
+449,Musk,base
+450,Vanilla,base
+451,Ambergris,base
+452,Musk,base
+453,Vanilla,base
+454,Nutmeg,top
+455,Tobacco,middle
+456,Oud,middle
+457,Virginia Cedarwood,middle
+458,Crisp Pear,top
+459,Patchouli,middle
+460,White Honey,middle
+461,Mandarin,middle
+462,Pear,middle
+463,gardenia,middle
+464,orange blossom,middle
+465,patchouli,middle
+466,amber,middle
+467,white honey,middle
+468,creamy,middle
+469,white honey,middle
+470,Jasmine/White Floral,middle
+471,Vanilla,middle
+472,Musk,middle
+473,berry,middle
+474,peach,middle
+475,mandarin,middle
+476,cake,middle
+477,jasmine,middle
+478,vanilla creamy,middle
+479,amber yang rich,middle
+480,musk,middle
+481,Melon,top
+482,Fruity Notes,top
+483,Sea Salt,middle
+484,Solar Notes,middle
+485,Oakwood,top
+486,Leather,top
+487,Citrus peel,top
+488,Milk Chocolate,top
+489,Caramelized Pear Note,top
+490,Antillone,middle
+491,Sandalwood cream,middle
+492,musk,middle
+493,citrus,middle
+494,orange blossom,middle
+495,Antillone,middle
+496,coconut milk,middle
+497,sandalwood cream,middle
+498,musk.,middle
+499,Anise,middle
+500,Jasmine Sambac Absolute,middle
+501,Floral Accord,middle
+502,Lily Of The Valley,base
+503,Dry Wood,base
+504,Patchouli,base
+505,Vanilla,middle
+506,Musk,middle
+507,apel,middle
+508,almond,middle
+509,coconut,middle
+510,cake,middle
+511,vanilla,middle
+512,,middle
+513,,middle
+514,,middle
+515,Calone,top
+516,Rose Oxyd,middle
+517,Cedarwood,middle
+518,Ambroxan,middle
+519,Musk,middle
+520,airy,middle
+521,calone,middle
+522,cassis buds,middle
+523,,middle
+524,rose,middle
+525, cedarwood,middle
+526,ambroxan,middle
+527,musk,middle
+528,Sandalwood,middle
+529,Benzoin,middle
+530,Heliotropin,middle
+531,Coumarin,middle
+532,Orcanox,middle
+533,Lorenox,middle
+534,Dry Wood,middle
+535,Gourmand,middle
+536,bergamot,middle
+537,ginger,middle
+538,grapefruit,middle
+539,cardamom,middle
+540,freesia,middle
+541,rose,middle
+542, lily of the valley,middle
+543,vanilla,middle
+544,cedar,middle
+545,benzoin creamy,middle
+546,woody-amber modern,middle
+547,musk,middle
+548,Tobacco Leaves,top
+549,Star Anise,top
+550,Dried Apricot,middle
+551,Cinnamon Leaves,middle
+552,Cardamom Guatemala,top
+553,Greentea Flower,top
+554,Peony,top
+555,Garden Rose,middle
+556,Marigold,top
+557,Prune,top
+558,Tagetes,top
+559,Aloe Vera,middle
+560,Cherry,middle
+561,Jasmine & White Floral,top
+562,Eucalyptus & Green Notes,middle
+563,Incense & Spice Notes,top
+564,Ambergris,middle
+565,Agarwood,middle
+566,Muguet,top
+567,Candied Lemon,middle
+568,Cardamom,middle
+569,Teak Wood,base
+570,Vetiver,base
+571,aromatic,base
+572,woody,base
+573,Vanilla,base
+574,Ambergris,base
+575,Rose & Iris,middle
+576,musk & ambrette,base
+577,Vanilla,base
+578,Amber,base
+579,White Musk,base
+580,Ambergris,base
+581,Ambrette,base
+582,Amber,base
+583,Ambrette,base
+584,Pink Salt,top
+585,Water Blossoms,middle
+586,Marine Notes,middle
+587,Almond,middle
+588,Black Cherry,top
+589,Marigold,middle
+590,Cloves,top
+591,Orange Zest,top
+592,Smoked Wood,middle
+593,Guaiac Wood,middle
+594,Burnt Brown Sugar,middle
+595,Candy,middle
+596,Ambery,middle
+597,Sour Cherry,top
+598,Carrot,top
+599,Lotus Blossom,middle
+600,Wet Stones,base
+601,Clearwood,base
+602,Lactone,top
+603,Blackcurrant Buds,top
+604,Powdery Notes,middle
+605,Aloe Vera,top
+606,Coconut Cream,middle
+607,Sweet Rice,middle
+608,Living Gunsmoke,middle
+609,Labdanum,middle
+610,Patchouli,middle
+611,Orange Blossom Water,middle
+612,Guava,top
+613,Bulgarian Rose & Neroli,top
+614,White Rose,middle
+615,Jasmine & Turkish Rose,middle
+616,Ambrette,middle
+617,Pomegranate,top
+618,Fresh Lemon,top
+619,Madagascar Vanilla,base
+620,Vetiver,base
+621,Herbaceous,top
+622,Sweet,top
+623,Tea,top
+624,Sicilian Mandarin,top
+625,Pink Peony,middle
+626,Damask Rose,middle
+627,Fir,top
+628,Nagarmotha,top
+629,Tagetes,middle
+630,Cyclamen,middle
+631,Italian Lemon,top
+632,Hawthorn,middle
+633,Honeydew,top
+634,Musks,top
+635,White Freesia,middle
+636,White Musks,base
+637,White Woods,base
+638,citrus,base
+639,vanilla,base
+640,Ceddarwood,base
+641,Vanilla,base
+642,Cedarwood,top
+643,Passion Fruit,top
+644,Pinnaple,top
+645,Red Berry,middle
+646,Vanilla Orchid,middle
+647,Mathe,top
+648,Peach Tea,middle
+649,Cedarwood,base
+650,crisp,base
+651,mint,base
+652,Fresh,top
+653,Spicy,middle
+654,Heliotrope,base
+655,Vanilla,base
+656,fresh lemon,base
+657,pear,base
+658,sandalwood,base
+659,cream,base
+660,musk,base
+661,woods,base
+662,,base
+663,lasting softness.  Fragrance notes :,base
+664,Litchi,middle
+665,Apple Blossom,middle
+666,Candy Sugar,top
+667,Vanilla Ice,top
+668,Wheat Biscuit,middle
+669,Fruity,top
+670,Caramelic,middle
+671,Bunga Jeruk,middle
+672,Spicy,top
+673,Toasted,middle
+674,Sweet,base
+675,Floral,base
+676,Musk,base
+677,Aquatic,middle
+678,Pink Florals,top
+679,Cassia,top
+680,Red Peony,middle
+681,Vegetal Accord,top
+682,Musk,base
+683,Asian Pear,top
+684,Fuji Apple,top
+685,Ume Plum,top
+686,Japanese Cherry Blossom,middle
+687,Butterfly Lily,middle
+688,Kyoto Rose,middle
+689,Mimosa Petals,middle
+690,Cream,middle
+691,Mirabelle Plum,middle
+692,Cocoa,top
+693,Beeswax,middle
+694,Cassis,middle
+695,Pineapple,middle

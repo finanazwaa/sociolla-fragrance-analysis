@@ -1,5 +1,5 @@
 import json
-from get_products import get_all_products
+from .get_products import get_all_products
 
 products = get_all_products()
 

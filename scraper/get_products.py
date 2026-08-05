@@ -31,9 +31,7 @@ def get_all_products():
     skip = 0
 
     while True:
-
         print(f"Fetching {skip} ...")
-
         response = requests.get(
             URL,
             params={
@@ -44,21 +42,35 @@ def get_all_products():
             },
             headers=HEADERS
         )
-
         response.raise_for_status()
-
         products = response.json()["data"]
-
         print("Returned:", len(products))
-
         if len(products) == 0:
             break
-
         all_products.extend(products)
-
         skip += limit
-
         time.sleep(0.3)
+
+    # Fetch description for each product using detail endpoint
+    for product in all_products:
+        # If the product already has a description (from the list response), keep it
+        if product.get("description"):
+            continue
+        try:
+            detail_resp = requests.get(f"https://catalog-api3.sociolla.com/product/{product['id']}", headers=HEADERS)
+            if detail_resp.ok:
+                detail = detail_resp.json()
+                # Prefer the detailed description; fallback to short_description or ingredients if missing
+                desc = detail.get("description")
+                if not desc:
+                    desc = product.get("short_description") or product.get("ingredients") or ""
+                product["description"] = desc
+            else:
+                # If the detail endpoint fails, use short_description or ingredients as fallback
+                product["description"] = product.get("short_description") or product.get("ingredients") or ""
+        except Exception:
+            # Final safety net – never let the key be missing
+            product["description"] = product.get("short_description") or product.get("ingredients") or ""
 
     return all_products
 
